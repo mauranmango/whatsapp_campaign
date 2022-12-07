@@ -1,0 +1,4 @@
++355694439707; Kompania 1 LTD; Information Technology; Tirana
++355694439707; Kompania 2 LTD; Marketing; Durres
++355694439707; Kompania 3 LTD; Consultancy; Vlore
++355694439707; Kompania 4 LTD LTD; Finance; Shkoder
